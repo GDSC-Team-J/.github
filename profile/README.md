@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-<a href="https://github.com/InQ-InQ-InQ-InQ-InQ/KUBS"><img src="https://github.com/InQ-InQ-InQ-InQ-InQ/KUBS/assets/112257466/8b22ea99-166f-4a61-ae5d-1da479f1d377" width="83.7%"/></a>
+<a href="https://github.com/GDSC-Team-J"><img src="https://github.com/InQ-InQ-InQ-InQ-InQ/KUBS/assets/112257466/4a1a67e5-05b6-4aec-a3ff-7f5d89c900c9" width="83.7%"/></a>
 <br/>
 
 
@@ -17,6 +17,7 @@
 		[ 2024/1/12 13:00 ~ 2024/1/13 11:00 ]
 
 		Team - J 
+    < sDGS No.3 Good Health And Well-Being >
 
 
 <br>
@@ -30,6 +31,13 @@
 
 <br/>
 
+---
+
+![](https://github.com/tteokguk-please/tteokguk-api/assets/112257466/d7a18d54-7aba-400b-9341-d7113eee90d0)
+![](https://github.com/GDSC-Team-J/.github/assets/112257466/80b31b7b-9e1f-4a32-9441-8c7f0889ba67)
+![](https://github.com/GDSC-Team-J/.github/assets/112257466/0852c872-de07-4ee1-aee5-fa16ea9d11c2)
+![](https://github.com/tteokguk-please/tteokguk-api/assets/112257466/a3448bf4-ffce-4e9b-a960-3d487dbbe5cf)
+![](https://github.com/tteokguk-please/tteokguk-api/assets/112257466/cf101415-2548-4bc6-b576-c136a712ef7a)
 ---
 
 ## 🔧&nbsp;&nbsp;Tech Stack&nbsp;&nbsp;🔧
