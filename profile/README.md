@@ -12,12 +12,15 @@
 # ❤️‍🔥 아띠 : 당신의 감정 도우미 ❤️‍🔥
 
 <br>
+
+## 	🎖️ 2024 GDSC KR New Year Hackathon 우수상 수상 	🎖️
 		
-		2024 GDSC KR New Year Hackathon<br/>
+		2024 GDSC KR New Year Hackathon
 		[ 2024/1/12 13:00 ~ 2024/1/13 11:00 ]
 
 		Team - J 
     < sDGS No.3 Good Health And Well-Being >
+
 
 
 <br>
@@ -76,7 +79,7 @@
     <td><img src="https://user-images.githubusercontent.com/112257466/209075280-78be8487-7d6a-485c-92a8-d6677f0caab9.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Spring Boot</td>
     <tr>
     <td><img src="https://user-images.githubusercontent.com/112257466/209076523-777fe02a-455f-48a0-a4b1-aeb9fff17b10.png" width="14px" alt="_icon" />&nbsp;&nbsp;<b>JPA & Data JPA</td>
-	    <td rowspan=2>API Documentation Tool</td>
+	    <td rowspan=2>Data Handling Skills</td>
   </tr>
   <tr>
       <td><img src="https://github.com/GDSC-Team-J/ADDI-ML/assets/112257466/dff863c4-fb90-4747-a621-bdbd2c44a0be" width="17px" alt="_icon" />&nbsp;&nbsp;<b>QueryDSL</td>
