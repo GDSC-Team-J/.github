@@ -13,7 +13,7 @@
 
 <br>
 
-## 	🎖️ 2024 GDSC KR New Year Hackathon 우수상 수상 	🎖️
+## 	🎖️ 2024 GDSC KR New Year Hackathon `우수상` 수상 	🎖️
 		
 		2024 GDSC KR New Year Hackathon
 		[ 2024/1/12 13:00 ~ 2024/1/13 11:00 ]
